@@ -1,0 +1,36 @@
+h1{
+    color:white;
+    background-color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: 1200;
+    margin: 20px;
+    padding-inline-start: 10px;
+    padding: 30px;
+}
+h1 span{
+    color: rgb(38, 182, 248);
+}
+.is-centered {
+    color:rgb(255, 255, 255);
+    background-color:blueviolet;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+.is-right-aligned {
+    color:black;
+    background-color:rgb(131, 175, 226);
+    font-size: 22px;
+    text-decoration-line: underline;
+    text-align: right;
+    margin: 20px;
+    padding-inline-end: 15px;
+    padding: 18px;
+    }
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
